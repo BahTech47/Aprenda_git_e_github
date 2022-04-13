@@ -6,6 +6,10 @@ GIT e Github, que são 2 ferramentas muito utilizadas no mundo da programação 
 
 O git permite que possamos organizar e salvar todas as modificações dos códigos de forma contínua (acompanhando o progresso), sendo possível a modificação da programação sem perder a linha de raciocínio ou o código propriamente dito.
 
+É através dos Git commands que possamos controlar todos o versionamento do nosso código. Alguns deles são:
+
+
+
 Essa tecnologia permite que possamos criar um sistema de Backups, podendo organizar as programações por etapas de modificações facilitando a manutenção do código.
 
 ## Github
