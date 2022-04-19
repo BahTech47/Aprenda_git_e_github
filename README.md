@@ -88,6 +88,7 @@ git push <remote> <branch-name>
 
 ## Github
 
-Explicação do que é Github
+O GitHub permite o acesso a programação remotamente, permitindo o acesso por todas as pessoas da equipe ou pessoas que queiram estudar programação se baseando em conteúdo já existente, o GitHub também é organizado por repositórios e eles podem ser privados, onde somente as pessoas com permissão podem acessar e modificar, ou públicos, onde todos podem acessar, aprendendendo e contribuindo com o código
+
 
 
